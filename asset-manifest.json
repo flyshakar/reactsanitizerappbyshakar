@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a84d6e34.css",
+    "main.js": "/static/js/main.3ad38adf.js",
+    "static/media/video.mp4": "/static/media/video.8fffd2717d29b75760ef.mp4",
+    "static/media/prevention.png": "/static/media/prevention.b97e496d1947671151f0.png",
+    "static/media/sanitizer.png": "/static/media/sanitizer.839cca8d305cde3664a1.png",
+    "static/media/findus.png": "/static/media/findus.5a396703d99d6824b1a5.png",
+    "static/media/bg.png": "/static/media/bg.48fee81213dd84e45b20.png",
+    "static/media/welcome.png": "/static/media/welcome.cbcfbd0baea7a0605832.png",
+    "static/media/thermometer.svg": "/static/media/thermometer.ea8ca16621bb4579c2b9f70303f22859.svg",
+    "static/media/logo.png": "/static/media/logo.20ccb6fdd43fae347ea0.png",
+    "static/media/ceo.png": "/static/media/ceo.49df4e39ffeb74184322.png",
+    "static/media/big_thermometer.png": "/static/media/big_thermometer.b498ab5f17705162a16d.png",
+    "index.html": "/index.html",
+    "main.a84d6e34.css.map": "/static/css/main.a84d6e34.css.map",
+    "main.3ad38adf.js.map": "/static/js/main.3ad38adf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a84d6e34.css",
+    "static/js/main.3ad38adf.js"
+  ]
+}
